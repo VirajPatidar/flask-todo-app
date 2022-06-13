@@ -1,0 +1,16 @@
+.vscode
+venv
+db.sqlite3
+__pycache__
+bookmarks.db
+*.sqlite
+
+# Environments
+.env
+.venv
+.flaskenv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
